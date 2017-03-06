@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Bienvenido al Proyecto PlantX
+
+Este proyecto es una contribución de [Algeiba](https://github.com/algeiba) para la comunidad de Xamarin.
+
+Todo lo que figure de aquí en adelante corresponde al template de una página de GitHub que no modificaremos hasta el próximo release.
+
+----------------------------------
 
 You can use the [editor on GitHub](https://github.com/algeiba/PlantX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
